@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yofoodie.git/static/css/main.e243a5f2.chunk.css",
+    "main.js": "/yofoodie.git/static/js/main.075dbfe9.chunk.js",
+    "main.js.map": "/yofoodie.git/static/js/main.075dbfe9.chunk.js.map",
+    "runtime-main.js": "/yofoodie.git/static/js/runtime-main.8f1144f1.js",
+    "runtime-main.js.map": "/yofoodie.git/static/js/runtime-main.8f1144f1.js.map",
+    "static/css/2.7aa6f31f.chunk.css": "/yofoodie.git/static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.4a80b82b.chunk.js": "/yofoodie.git/static/js/2.4a80b82b.chunk.js",
+    "static/js/2.4a80b82b.chunk.js.map": "/yofoodie.git/static/js/2.4a80b82b.chunk.js.map",
+    "index.html": "/yofoodie.git/index.html",
+    "precache-manifest.14ea363df1a1ce90cadb5feec1c59b98.js": "/yofoodie.git/precache-manifest.14ea363df1a1ce90cadb5feec1c59b98.js",
+    "service-worker.js": "/yofoodie.git/service-worker.js",
+    "static/css/2.7aa6f31f.chunk.css.map": "/yofoodie.git/static/css/2.7aa6f31f.chunk.css.map",
+    "static/css/main.e243a5f2.chunk.css.map": "/yofoodie.git/static/css/main.e243a5f2.chunk.css.map",
+    "static/media/logo.svg": "/yofoodie.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f1144f1.js",
+    "static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.4a80b82b.chunk.js",
+    "static/css/main.e243a5f2.chunk.css",
+    "static/js/main.075dbfe9.chunk.js"
+  ]
+}
